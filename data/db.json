@@ -1,0 +1,24 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title": "welcome to ne blog",
+            "body": "Lorem ipsum dolor amet",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id":2,
+            "title": "top 5 css tipe",
+            "body": "Lorem ipsum dolor amet",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}
